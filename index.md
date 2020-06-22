@@ -20,4 +20,4 @@ to being in her late teens in The Shepherd’s Crown.
 > They are strange times, times of beginnings and endings. 
 > Dangerous and powerful. And we feel it even if we don't know what it is. 
 > These times are not necessarily good, and not necessarily bad. 
-> In fact, what they are depends on what _we_ are.” 
+> In fact, what they are depends on what we are.” 
