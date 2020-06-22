@@ -16,4 +16,8 @@ to being in her late teens in The Shepherd’s Crown.
 * steadfast
 * hard to impress
 
-> “At such times the universe gets a little closer to us. They are strange times, times of beginnings and endings. Dangerous and powerful. And we feel it even if we don't know what it is. These times are not necessarily good, and not necessarily bad. In fact, what they are depends on what _we_ are.” 
+> “At such times the universe gets a little closer to us. 
+> They are strange times, times of beginnings and endings. 
+> Dangerous and powerful. And we feel it even if we don't know what it is. 
+> These times are not necessarily good, and not necessarily bad. 
+> In fact, what they are depends on what _we_ are.” 
