@@ -20,6 +20,6 @@ to being in her late teens in The Shepherd’s Crown.
 
 < img src="https://en.wikipedia.org/wiki/Terry_Pratchett#/media/File:10.12.12TerryPratchettByLuigiNovi1.jpg"/>
 
-Picture of the author Terry Pratchett (no free picture of the character Tiffany Aching available)
+Picture: Terry Pratchett (no free picture of the character Tiffany Aching available)
 Source: Wikipedia
 Attribution: Luigi Novi
