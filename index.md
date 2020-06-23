@@ -8,7 +8,7 @@ She is the main character in The Wee Free Men, A Hat Full of Sky, Wintersmith, I
 The Shepherd’s Crown. Tiffany grows up over the course of the series, from nine years old in The Wee Free Men 
 to being in her late teens in The Shepherd’s Crown.
 
-## Tiffany is:
+## Tiffany is
 
 * curious
 * courageous
@@ -17,6 +17,7 @@ to being in her late teens in The Shepherd’s Crown.
 * hard to impress
 
 > At such times the universe gets a little closer to us. They are strange times, times of beginnings and endings. Dangerous and powerful. And we feel it even if we don't know what it is. These times are not necessarily good, and not necessarily bad. In fact, what they are depends on what *we* are.
+From the book *I shall wear midnight*
 
 < img src="https://en.wikipedia.org/wiki/Terry_Pratchett#/media/File:10.12.12TerryPratchettByLuigiNovi1.jpg"/>
 
