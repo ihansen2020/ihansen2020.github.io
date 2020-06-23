@@ -23,4 +23,4 @@ From the book *I shall wear midnight*
 
 Picture: Terry Pratchett (no free picture of the character Tiffany Aching available)
 Source: Wikipedia
-Attribution: Luigi Novi
+Attribution Picture: Luigi Novi
